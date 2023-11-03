@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![](D:\Document\Github\Huangzh2001.github.io\images\HZH-QCHT.jpg)
+<img src="../images/HZH-QCHT.jpg" title="" alt="" data-align="center">
 
 Here is Zihang Huang.
