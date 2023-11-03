@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align=center><img title="" src="../images/HZH-QCHT.jpg" alt="" data-align="center" width="451">
-<br>
+<div align=center><img title="" src="../images/HZH-QCHT.jpg" alt="" data-align="center" width="451"></div>
   
 Here is **Zihang Huang (Harry, 黄梓航)**. 
 
@@ -17,4 +16,4 @@ I graduated from the School of Mathematics of Sun Yat-sen University with a bach
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at huangzh253@mail2.sysu.edu.cn. Or if you are willing, you can add my WeChat account, but please include your name and purpose:
 
-<div align=center><img title="" src="../images/Wechat.jpg" alt="" data-align="center" width="265">
+<div align=center><img title="" src="../images/Wechat.jpg" alt="" data-align="center" width="265"></div>
