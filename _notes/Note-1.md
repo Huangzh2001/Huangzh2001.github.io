@@ -2,7 +2,7 @@
 title: "Abstract Algebra"
 collection: notes
 permalink: /notes/Note-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This note is about Abstract Algebra.'
 date: 2023-11-02
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
