@@ -10,6 +10,4 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-
-
-Here is the handout:[Abstract Algebra](Huangzh2001.github.io/_teaching/2023/AbAl.pdf)
+Here is the handout:[Abstract Algebra](2023/AbAl.pdf)
