@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <div align=center><img title="" src="../images/HZH-QCHT.jpg" alt="" data-align="center" width="451">
-
+<br>
+  
 Here is **Zihang Huang (Harry, 黄梓航)**. 
 
 I graduated from the School of Mathematics of Sun Yat-sen University with a bachelor's degree. Currently, I am continuing my master's studies at Sun Yat-sen University.
