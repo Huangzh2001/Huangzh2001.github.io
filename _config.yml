@@ -83,10 +83,10 @@ author:
   name             : "Zihang Huang"
   avatar           : "HZH.png"
   bio              : "A student majoring in mathematics"
-  location         : "Location"
+  location         : "China Guangzhou"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Huangzh2001"
   google_plus      :
   keybase          :
   instagram        :
