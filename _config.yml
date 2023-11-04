@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zihang Huang / HomePage"
+title                    : "Zihang Huang / Home Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -112,7 +112,7 @@ author:
   twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             : "Pagehanghang2020"
+  xing             :
   youtube          :
   wikipedia        :
 
