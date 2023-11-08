@@ -13,7 +13,7 @@ Education
 ======
 
 * B.S. in Mathematics, Sun Yat-sen University, 2023
-* M.S. in Jekyll, GitHub University, 2014 (expected)
+* M.S. in Mathematics, Sun Yat-sen University, 2027 (expected)
 
 Work experience
 ======
